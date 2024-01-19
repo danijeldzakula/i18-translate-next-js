@@ -1,0 +1,16 @@
+{
+    "navigation": {
+        "home": "Naslovna",
+        "about": "O Nama"
+    },
+    "page": {
+        "home": {
+            "title": "Dobrodosli na NextJs i18n",
+            "description": "Multijezicnost u okviru Next.js 13 app router sistema"
+        },
+        "about": {
+            "title": "O Nama",
+            "description": "Ovo je stranica O Nama"
+        }
+    }
+}
